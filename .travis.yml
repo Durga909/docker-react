@@ -1,3 +1,4 @@
+language: generic
 sudo: required
 services: 
   - docker
@@ -7,5 +8,5 @@ before_install:
 
 
 script:
-  - docker run cloud119/docker-react npm run test -- --coverage
+  - docker run -e CI=true cloud119/docker-react npm run test -- --coverage
 
