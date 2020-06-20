@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hi Good Morning Buddies Today is June 16thhhh........!!!!
+          Hi Good Morning CUTIESSSS Today is June 20thhhh........!!!!
         </a>
       </header>
     </div>
